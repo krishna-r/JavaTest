@@ -6,7 +6,7 @@ import java.util.Arrays;
 
 public class subsetSumRunner {
     @Test
-    public static void runner(){
+    public static void Runner(){
 
          int[] arr = {3, 34, 4, 12, 5, 2};
 
